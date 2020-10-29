@@ -1,0 +1,25 @@
+{
+  "name": "canvas-grid",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanhdev/canvas-grid.git"
+  },
+  "keywords": [
+    "canvasgrid",
+    "canvas-grid",
+    "\"canvas",
+    "grid\""
+  ],
+  "author": "Nguyen The Anh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theanhdev/canvas-grid/issues"
+  },
+  "homepage": "https://github.com/theanhdev/canvas-grid#readme"
+}
